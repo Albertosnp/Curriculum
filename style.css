@@ -1,0 +1,23 @@
+.foto-perfil{
+    width: 250px;
+}
+.aside{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px ;
+}
+/* Sobreescribe para linea que separa los campos ppales */
+.border-bottom {
+    border-width:2px !important;
+}
+.container{
+    background-color: rgb(221, 221, 221);
+}
+ul {list-style:none;}
+li:before {
+    content: "\2713";
+    padding-right: 10px;
+}
+ 
+#contacto img{
+    width: 30px !important;
+} 

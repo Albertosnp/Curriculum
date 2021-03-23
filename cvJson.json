@@ -1,0 +1,95 @@
+{
+    "Nombre": "Alberto",
+    "Apellidos": "Sánchez de la Nieta Perez",
+    "Perfil": "Me considero una persona organizada, con gran implicación con su trabajo, resolutiva, y con una gran motivación para superarme día a día, logrando adaptarme a cualquier circunstancia.\n\n Entiendo esta profesión como un camino de evolución constante, donde la adaptación debe ser ágil.\n\n Mi experiencia laborar me ha enseñado a trabajar bajo presión, gestión de grupos, además de valores como el trabajo en equipo y compañerismo.",
+    "Contacto": 
+    {
+        "Telefono": 620100240,
+        "Email": "Albertosnp91@gmail.com",
+        "Linkdin": "https://linkedin.com/in/albertosnp",
+        "GitHub": "https://github.com/Albertosnp",
+        "Web": "https://www.albertosnp.ga"
+    },
+    "Otros datos": 
+    {
+        "Idiomas:": "Ingles medio",
+        "Disponibilidad:": "Total",
+        "Permisos de conducir:": ["B"," A"," A2"," A1"]
+    },
+    "Formación Academica": 
+    [
+        {
+            "Titulo": "Técnico Superior en Desarrollo de Aplicaciones Web (DAW)",
+            "Fecha": "2019 – 2021",
+            "Centro": "IES Arcipreste de Hita",
+            "Ubicacion": "Azuqueca de Henares"
+        },
+        {
+            "Titulo": "Técnico Superior en Animación de Actividades Físicas y Deportivas (TAFAD)",
+            "Fecha": "2014 – 2016",
+            "Centro": "Colegio Diocesano",
+            "Ubicacion": "Guadalajara"
+        },
+        {
+            "Titulo": "Técnico Deportivo Grado Superior en Fútbol (NIVEL III – Entrenador Nacional)",
+            "Fecha": "2018 – 2019",
+            "Centro": "Mifra",
+            "Ubicacion": "Valencia"
+        },
+        {
+            "Titulo": "Bachillerato Tecnológico",
+            "Fecha": "2010 – 2013",
+            "Centro": "IES Brianda de Mendoza",
+            "Ubicacion": "Guadalajara"
+        }
+    ],
+    "Experiencia Profesional": [
+        {
+            "Puesto": "Militar Profesional en 1ª Bandera Paracaidista Roger de Flor.",
+            "Fecha": "2011 – 2013"
+        },
+        {
+            "Puesto": "Entrenador de fútbol en RFFM y FFCM.",
+            "Fecha": "2014 – 2020"
+        },
+        {
+            "Puesto": "Operario Inditex",
+            "Fecha": "2014 (Cabanillas del Campo), 2016 (Meco)"
+        }
+    
+    ],
+    "Tecnologías": ["JavaScript", "PHP", "Html5", "CSS3", "Bootstrap", "Java", "C#", "MySQL", "Oracle", "Git-GitHub", "Markdown","Markdown"],
+    "Entornos de trabajo": ["Visual Studio Code", "Suite JetBrains", "Eclipse", "Netbeans", "Parallels", "VMWare", "GitHub", "PhotoShop"],
+    "Proyectos Academicos": 
+    [
+        {
+            "Nombre": "Calculadora (WEB)",
+            "Descripción": "Aplicación web de una calculadora, teniendo modo normal y científica. Realizada con JavaScript POO, CSS3 y HTML5."
+        },
+        {
+            "Nombre": "Plataforma de gestión de usuarios (WEB)",
+            "Descripción": "Aplicación de gestión de usuarios donde se pueden crear, consultar, modificar, importar y exportar los registros almacenados en una BBDD MySQL. Proyecto realizado con JavaScript, PHP, CSS3 y HTML5."
+        },
+        {
+            "Nombre": "Gestión de bibliotecas de Guadalajara",
+            "Descripción": "Programa de gestión de bibliotecas, usuarios, libros, etc. Realizado con JAVA utilizando sistema de ficheros."
+        },
+        {
+            "Nombre": "Gestión de la liga de futbol profesional",
+            "Descripción": "Aplicación de gestión de clubs y jugadores. Realizado con JAVA en dos versiones, utilizando una BBDD relacional MySQL, y una no relacional con ObjectDB."
+        }
+    ],
+    "Proyectos Personales": 
+    [
+        {
+            "Nombre": "Preguntados (WEB)",
+            "Descripción": "Juego de preguntas gestionado con sistema de ficheros csv. Realizado con JS, PHP, HTML5 y CSS3."
+        },
+        {
+            "Nombre": "Blog (WEB)",
+            "Descripción": "Aplicación web tipo blog, con una temática de futbol. Realizado con PHP, HTML5, CSS3 y MySQL."
+        }
+    ],
+    "Intereses Personales": "Mi vida ha estado siempre ligada al mundo del deporte, bien por estudios, como hobbie o profesionalmente. Además, me ha dado la posibilidad de poder compaginarlo con formación complementaria y una oposición.\n\n Por otra parte, el desarrollo web ha sido un campo que siempre me ha generado mucho interés, y ahora aun más cuando he podido formarme.\n\n Cabe destacar que me gustaría aprender React como Framework de JS y Python."
+
+}
