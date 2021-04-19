@@ -1,7 +1,7 @@
 {
     "Nombre": "Alberto",
     "Apellidos": "Sánchez de la Nieta Perez",
-    "Perfil": "Me considero una persona organizada, con gran implicación con su trabajo, resolutiva, y con una gran motivación para superarme día a día, logrando adaptarme a cualquier circunstancia.\n\n Entiendo esta profesión como un camino de evolución constante, donde la adaptación debe ser ágil.\n\n Mi experiencia laborar me ha enseñado a trabajar bajo presión, gestión de grupos, además de valores como el trabajo en equipo y compañerismo.",
+    "Perfil": "Me considero una persona organizada, con gran implicación con su trabajo, resolutiva, y con una gran motivación para superarme día a día, logrando adaptarme a cualquier circunstancia.\n\n Entiendo esta profesión como un camino de evolución constante, donde la adaptación debe ser ágil.\n\n Mi experiencia laboral me ha enseñado a trabajar bajo presión, gestión de grupos, además de valores como el trabajo en equipo y compañerismo.",
     "Contacto": 
     {
         "Telefono": 620100240,
@@ -58,13 +58,13 @@
         }
     
     ],
-    "Tecnologías": ["JavaScript", "PHP", "Html5", "CSS3", "Bootstrap", "Java", "C#", "MySQL", "Oracle", "Git-GitHub", "Markdown","Markdown"],
+    "Tecnologías": ["JavaScript", "React","PHP", "Html5", "CSS3", "Bootstrap","TypeScript", "Java",  "MySQL", "Oracle", "Git-GitHub", "Markdown","Markdown"],
     "Entornos de trabajo": ["Visual Studio Code", "Suite JetBrains", "Eclipse", "Netbeans", "Parallels", "VMWare", "GitHub", "PhotoShop"],
     "Proyectos Academicos": 
     [
         {
             "Nombre": "Calculadora (WEB)",
-            "Descripción": "Aplicación web de una calculadora, teniendo modo normal y científica. Realizada con JavaScript POO, CSS3 y HTML5."
+            "Descripción": "Aplicación web de una calculadora, teniendo modo normal y científica. Realizada con JS, CSS3 y HTML5."
         },
         {
             "Nombre": "Plataforma de gestión de usuarios (WEB)",
@@ -88,6 +88,10 @@
         {
             "Nombre": "Blog (WEB)",
             "Descripción": "Aplicación web tipo blog, con una temática de futbol. Realizado con PHP, HTML5, CSS3 y MySQL."
+        },
+        {
+            "Nombre": "SearchYourGif",
+            "Descripción": "Aplicación de busqueda de gifs, consume la API de GIPHY. Realizada con Angular (JS) y CSS3"
         }
     ],
     "Intereses Personales": "Mi vida ha estado siempre ligada al mundo del deporte, bien por estudios, como hobbie o profesionalmente. Además, me ha dado la posibilidad de poder compaginarlo con formación complementaria y una oposición.\n\n Por otra parte, el desarrollo web ha sido un campo que siempre me ha generado mucho interés, y ahora aun más cuando he podido formarme.\n\n Cabe destacar que me gustaría aprender React como Framework de JS y Python."
